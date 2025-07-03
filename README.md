@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourmixJNR/)](https://www.linkedin.com/in/YourmixJNR/) [![Twitter Badge](https://img.shields.io/badge/-YourmixJNR-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/YourmixJNR)](https://x.com/YourmixJNR)
+[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yourmix0x/)](https://www.linkedin.com/in/Yourmix0x/) [![Twitter Badge](https://img.shields.io/badge/-Yourmix0x-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Yourmix0x)](https://x.com/Yourmix0x)
 
 ## :man_technologist: About Me :
 
@@ -36,10 +36,4 @@
 
 <!-- GITHUB_STATS:START -->
 
-[![YourmixJNR's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourmixjnr&show_icons=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourmixjnr&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- GITHUB_STATS:END -->
-
-## :zap: committers.top Rank :
-
-[![committers.top badge](https://user-badge.committers.top/nigeria/YourmixJNR.svg)](https://user-badge.committers.top/nigeria/YourmixJNR)
+[![YourmixJNR's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourmix0x&show_icons=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourmix0x&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
