@@ -40,6 +40,10 @@
 
 <!-- GITHUB_STATS:END -->
 
-## :zap: committers.top Rank :
+##
 
-[![committers.top badge](https://user-badge.committers.top/nigeria/YourmixJNR.svg)](https://user-badge.committers.top/nigeria/Yourmix0x)
+Let's build something amazing together!
+
+<!--
+**yourmix0x/yourmix0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
