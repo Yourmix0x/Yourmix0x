@@ -37,3 +37,9 @@
 <!-- GITHUB_STATS:START -->
 
 [![YourmixJNR's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourmix0x&show_icons=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourmix0x&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GITHUB_STATS:END -->
+
+## :zap: committers.top Rank :
+
+[![committers.top badge](https://user-badge.committers.top/nigeria/YourmixJNR.svg)](https://user-badge.committers.top/nigeria/Yourmix0x)
