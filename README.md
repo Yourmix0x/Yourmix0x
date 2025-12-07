@@ -1,10 +1,8 @@
-# Hi there 👋
-
-**I'm Michael Victor.**
+# Hi there, I'm Yourmix0x! 👋
 
 **I’m a software engineer specializing in react, next.js, and solidity. I build fast web apps and seamless web3 experiences.**
 
-### Skills :
+## Skills
 
 <!-- SKILLS:START -->
 <p>
@@ -30,7 +28,7 @@
 </p>
 <!-- SKILLS:END -->
 
-### Socials :
+### Socials
 
 <!-- SOCIALS:START -->
 [![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yourmix0x/)](https://www.linkedin.com/in/Yourmix0x/) [![Twitter Badge](https://img.shields.io/badge/-Yourmix0x-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Yourmix0x)](https://x.com/Yourmix0x)
