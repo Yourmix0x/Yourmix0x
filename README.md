@@ -1,14 +1,10 @@
 # Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yourmix0x/)](https://www.linkedin.com/in/Yourmix0x/) [![Twitter Badge](https://img.shields.io/badge/-Yourmix0x-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Yourmix0x)](https://x.com/Yourmix0x)
-
-## :man_technologist: About Me :
-
 **I'm Michael Victor.**
 
-**I’m a passionate Software Engineer specializing in Frontend Engineering with over three years of experience building responsive, high-performance applications**
+**I’m a software engineer specializing in react, next.js, and solidity. I build fast web apps and seamless web3 experiences.**
 
-## :fire: Skills :
+### Skills :
 
 <!-- SKILLS:START -->
 <p>
@@ -34,15 +30,11 @@
 </p>
 <!-- SKILLS:END -->
 
-<!-- GITHUB_STATS:START -->
+### Socials :
 
-[![YourmixJNR's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourmix0x&show_icons=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourmix0x&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- GITHUB_STATS:END -->
-
-##
-
-Let's build something amazing together!
+<!-- SOCIALS:START -->
+[![Linkedin Badge](https://img.shields.io/badge/-micahaelvictor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yourmix0x/)](https://www.linkedin.com/in/Yourmix0x/) [![Twitter Badge](https://img.shields.io/badge/-Yourmix0x-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Yourmix0x)](https://x.com/Yourmix0x)
+<!-- SOCIALS:END -->
 
 <!--
 **yourmix0x/yourmix0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
