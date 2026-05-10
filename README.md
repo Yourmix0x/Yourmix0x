@@ -2,7 +2,7 @@
 
 **I build web and mobile apps. Frontend-heavy, Web3-native — smart contracts, clean UI, full-stack capable.**
 
-Check out my work at [yourmix0x.dev](https://yourmix0x.dev)
+**Portfolio:** [yourmix0x.dev](https://yourmix0x.dev)
 
 ## Skills
 
